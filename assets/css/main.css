@@ -1836,7 +1836,11 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-researchgate {
-					background-color: #006599;
+					background-color: #0080ff;
+				}
+
+				ul.social li a.fa-sistrix{
+					background-color: #007398;
 				}
 
 				ul.social li a.fa-tumblr {
